@@ -14,7 +14,7 @@ A list of osint tools/websites for pentration testing, Reverse Searching, Red te
     <img src="/assets/sponsor/sponsor_banner.png" alt="WebVetted OSINT" width="800">
   </a>
   <br><br>
-  <i><b>Turn 180 hours of monthly OSINT work into just a few.</b> WebVetted brings 32 OSINT tools into one unified dashboard. We do the heavy-lifting research for you, checking thousands of sources to connect the dots across emails, phones, usernames, domains, and social media.</i><br>
+  <i><b>Stop juggling dozens of OSINT tools.</b> WebVetted brings 32 tools into one unified dashboard. Turn any email, phone, or username into a complete identity investigation with deep OSINT enrichment, breach intel, AI analysis, and an interactive identity graph.</i><br>
   <a href="https://webvetted.com/awesome-osint?utm_source=github&utm_medium=sponsorship&utm_campaign=awesome-osint"><b>Start an Investigation →</b></a>
 </div>
 
