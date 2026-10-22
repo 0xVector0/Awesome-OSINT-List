@@ -1449,6 +1449,7 @@ Enter two images and the difference will show up below
 - [Airloom](https://objectiveunclear.com/airloom) - Aircraft tracking and flight path visualization tool.
 - [SOAR Atlas](https://soaratlas.com/) - Aviation and flight tracking atlas.
 - [AIR Online India](https://www.aironline.in/) - Indian aviation and flight tracking information.
+- [Velocity](https://github.com/AndrewCTF/velocity) - Self-hosted, open-source flight and ship tracker that records every position it sees so you can replay any moment; each contact shows which feed reported it and how old the fix is.
 <br>
 
 [⇧ Top](#index)
